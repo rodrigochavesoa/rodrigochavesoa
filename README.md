@@ -14,9 +14,9 @@ Com base acadêmica em Engenharia de Produção e Pós-Graduação em Educação
   
 
 <div align="center">
-<img src="https://rodrigochavesoa.github.io/Colab_Developer/images-favicon/Group_29_1.png" align="center" height="150" width="" />
+<img src="https://rodrigochavesoa.github.io/Colab_Developer/images-favicon/colab.png" align="center" height="100" width="" />
+<img src="https://rodrigochavesoa.github.io/Colab_Developer/images-favicon/mascote_colab_developer.png" align="center" height="150" width="" />
 </div>  
-  
 
 <br/>  
 
