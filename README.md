@@ -98,6 +98,7 @@ Com base acadêmica em Engenharia de Produção e Pós-Graduação em Educação
 <br/>  
 
 
+
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=rodrigochavesoa&&style=flat-square" align="center" />
 </div>  
