@@ -1,16 +1,37 @@
-## E ai papa! | Hy there 🫱🫲  
+# E ai papa! | Hy there 🫱🫲  
 
-👋 Olá! Sou Rodrigo Chaves. | Hy! I`m Rodrigo Chaves
+## 👋 Apresentação | Introduction  
 
-Profissional com mais de 15 anos de trajetória profissional, unindo sólida experiência em liderança, UX Design e Gestão de Projetos à Engenharia de Software. Com ênfase em Design Thinking e Metodologias Ágeis, possuo sólida expertise em desenvolvimento Full-Stack de ponta a ponta, integração de APIs e automações de processos (ClickUp e Pipefy).
+### 🇧🇷 Português  
+Profissional com mais de 15 anos de trajetória, unindo sólida experiência em liderança, UX Design e Gestão de Projetos à Engenharia de Software.  
+Com ênfase em Design Thinking e Metodologias Ágeis, possuo expertise em desenvolvimento Full-Stack de ponta a ponta, integração de APIs e automações de processos (ClickUp e Pipefy).  
 
-Atualmente, venho expandindo meu kit de ferramentas técnicas me especializando no ecossistema Google Cloud (GCP) e aprofundando meus conhecimentos em infraestrutura e sistemas operacionais com foco em Linux (LPI Linux Essentials). Tenho focado no desenvolvimento e implantação de aplicações eficientes e escaláveis utilizando tecnologias serverless como App Engine, Cloud Run Functions e análise de dados com o BigQuery, integrando essas soluções em nuvem com arquiteturas modernas em Go e Python.
+Atualmente, venho expandindo meu kit de ferramentas técnicas me especializando no ecossistema Google Cloud (GCP) e aprofundando meus conhecimentos em infraestrutura e sistemas operacionais com foco em Linux (LPI Linux Essentials).  
+Tenho focado no desenvolvimento e implantação de aplicações eficientes e escaláveis utilizando tecnologias serverless como App Engine, Cloud Run Functions e análise de dados com BigQuery, integrando essas soluções em nuvem com arquiteturas modernas em Go e Python.  
 
-Minha atuação abrange desde o mapeamento da jornada do usuário (UX Research) e prototipagem até a execução técnica e arquitetura de soluções, sempre com forte "visão de dono". Essa abordagem prática reflete-se em projetos reais entregues, como o RC Store, Projeto STAFF, Colab PDF Reader e o Monitor de Licitações PNCP.
+Minha atuação abrange desde o mapeamento da jornada do usuário (UX Research) e prototipagem até a execução técnica e arquitetura de soluções, sempre com forte "visão de dono".  
+Essa abordagem prática reflete-se em projetos reais entregues, como **RC Store**, **Projeto STAFF**, **Colab PDF Reader** e **Monitor de Licitações PNCP**.  
 
-Com base acadêmica em Engenharia de Produção e Pós-Graduação em Educação Física, destaco como soft skills a curiosidade analítica, adaptabilidade, comunicação clara para traduzir ideias em código e a habilidade de resolver problemas complexos.
+Com base acadêmica em Engenharia de Produção e Pós-Graduação em Educação Física, destaco como soft skills a curiosidade analítica, adaptabilidade, comunicação clara e a habilidade de resolver problemas complexos.  
 
-🚀 "Lifelong Learning - Honesty in small things is not a small thing."  
+🚀 *"Aprendizado contínuo – A honestidade nas pequenas coisas não é uma coisa pequena."*  
+
+---
+
+### 🇺🇸 English  
+Professional with more than 15 years of career experience, combining solid expertise in leadership, UX Design, and Project Management with Software Engineering.  
+With an emphasis on Design Thinking and Agile Methodologies, I have strong expertise in end-to-end Full-Stack development, API integration, and process automation (ClickUp and Pipefy).  
+
+Currently, I am expanding my technical toolkit by specializing in the Google Cloud ecosystem (GCP) and deepening my knowledge in infrastructure and operating systems with a focus on Linux (LPI Linux Essentials).  
+I have been focusing on developing and deploying efficient and scalable applications using serverless technologies such as App Engine, Cloud Run Functions, and data analysis with BigQuery, integrating these cloud solutions with modern architectures in Go and Python.  
+
+My work ranges from mapping the user journey (UX Research) and prototyping to technical execution and solution architecture, always with a strong “ownership mindset.”  
+This practical approach is reflected in real projects delivered, such as **RC Store**, **Projeto STAFF**, **Colab PDF Reader**, and **Monitor de Licitações PNCP**.  
+
+With an academic background in Production Engineering and a Postgraduate degree in Physical Education, I highlight as soft skills analytical curiosity, adaptability, clear communication to translate ideas into code, and the ability to solve complex problems.  
+
+🚀 *"Lifelong Learning - Honesty in small things is not a small thing."*  
+
   
 
 <div align="center">
@@ -23,8 +44,6 @@ Com base acadêmica em Engenharia de Produção e Pós-Graduação em Educação
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
-
-
 
 ### Back-end  
 <div align="center">  
@@ -50,21 +69,42 @@ Com base acadêmica em Engenharia de Produção e Pós-Graduação em Educação
 
 </td><td valign="top" width="33%">
 
-
-
-### Database & Tools  
+### Databases  
 <div align="center">  
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
+<a href="https://www.postgresql.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
+<a href="https://www.mysql.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
+<a href="https://www.mongodb.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
 </div>
 
+### DevOps & Cloud  
+<div align="center">  
+<a href="https://www.docker.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
+<a href="https://github.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+<a href="https://www.linux.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
+<a href="https://firebase.google.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
+<a href="https://cloud.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" height="50" /></a>  
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
+</div>
+
+
 </td></tr></table>  
+
+
+## Github Stats  
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rodrigochavesoa&theme=solarized)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rodrigochavesoa&theme=solarized)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rodrigochavesoa&theme=solarized&utcOffset=3)
+
+<br/>  
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=rodrigochavesoa&&style=flat-square" align="center" />
+</div>  
+  
+
+<br/>  
+
 
 <br/>  
 
@@ -89,31 +129,3 @@ Com base acadêmica em Engenharia de Produção e Pós-Graduação em Educação
 
 <br/>  
 
-## Github Stats  
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rodrigochavesoa&theme=solarized)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rodrigochavesoa&theme=solarized)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rodrigochavesoa&theme=solarized&utcOffset=3)
-
-
-## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigochavesoa&hide_border=true&layout=compact" align="left" />  
-
-<img src="https://github-readme-stats.vercel.app/api?username=rodrigochavesoa&show_icons=true&count_private=true&hide_border=true" align="left" />  
-
-<br/>  
-
-
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=rodrigochavesoa&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a>⭐</div> 
