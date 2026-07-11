@@ -89,6 +89,12 @@ Com base acadêmica em Engenharia de Produção e Pós-Graduação em Educação
 
 <br/>  
 
+## Github Stats  
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rodrigochavesoa&theme=solarized)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rodrigochavesoa&theme=solarized)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rodrigochavesoa&theme=solarized&utcOffset=3)
+
 
 ## Github Stats  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigochavesoa&hide_border=true&layout=compact" align="left" />  
