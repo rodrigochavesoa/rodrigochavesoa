@@ -1,5 +1,22 @@
 # E ai papa! | Hy there 🫱🫲  
 
+## 🤝 Agradecimento | Appreciation  
+
+### 🇧🇷 Português  
+Muito obrigado por visitar meu perfil!  
+Se tiver alguma sugestão ou dúvida, fique à vontade para me enviar uma mensagem.  
+Trabalha em algum projeto open source? Me chame, estou sempre disponível para colaborar!  
+Posso não ter todas as respostas, mas tenho total interesse em ouvir, compartilhar ideias e aprender junto. 🚀  
+
+---
+
+### 🇺🇸 English  
+Thank you for visiting my profile!  
+If you have any suggestions or questions, feel free to reach out.  
+Working on an open-source project? Count me in — I’m always open to collaborate!  
+I may not know everything, but I’m eager to listen, share ideas, and learn together. 🚀  
+
+
 ## 👋 Apresentação | Introduction  
 
 ### 🇧🇷 Português  
