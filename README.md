@@ -1,21 +1,8 @@
 # E ai papa! | Hy there 🫱🫲  
-
-## 🤝 Agradecimento | Appreciation  
-
-### 🇧🇷 Português  
-Muito obrigado por visitar meu perfil!  
-Se tiver alguma sugestão ou dúvida, fique à vontade para me enviar uma mensagem.  
-Trabalha em algum projeto open source? Me chame, estou sempre disponível para colaborar!  
-Posso não ter todas as respostas, mas tenho total interesse em ouvir, compartilhar ideias e aprender junto. 🚀  
-
----
-
-### 🇺🇸 English  
-Thank you for visiting my profile!  
-If you have any suggestions or questions, feel free to reach out.  
-Working on an open-source project? Count me in — I’m always open to collaborate!  
-I may not know everything, but I’m eager to listen, share ideas, and learn together. 🚀  
-
+<div align="center">
+<img src="https://rodrigochavesoa.github.io/Colab_Developer/images-favicon/mascote_colab_developer.png" align="center" height="150" width="" />
+<p>Mr. Colab Developer</p>
+</div>  
 
 ## 👋 Apresentação | Introduction  
 
@@ -31,8 +18,6 @@ Essa abordagem prática reflete-se em projetos reais entregues, como **RC Store*
 
 Com base acadêmica em Engenharia de Produção e Pós-Graduação em Educação Física, destaco como soft skills a curiosidade analítica, adaptabilidade, comunicação clara e a habilidade de resolver problemas complexos.  
 
-🚀 *"Aprendizado contínuo – A honestidade nas pequenas coisas não é uma coisa pequena."*  
-
 ---
 
 ### 🇺🇸 English  
@@ -47,14 +32,30 @@ This practical approach is reflected in real projects delivered, such as **RC St
 
 With an academic background in Production Engineering and a Postgraduate degree in Physical Education, I highlight as soft skills analytical curiosity, adaptability, clear communication to translate ideas into code, and the ability to solve complex problems.  
 
-🚀 *"Lifelong Learning - Honesty in small things is not a small thing."*  
-
-  
-
 <div align="center">
 <img src="https://rodrigochavesoa.github.io/Colab_Developer/images-favicon/colab.png" align="center" height="100" width="" />
-<img src="https://rodrigochavesoa.github.io/Colab_Developer/images-favicon/mascote_colab_developer.png" align="center" height="150" width="" />
+<p><b>"Aprendizado contínuo – A honestidade nas pequenas coisas não é uma coisa pequena."</b> </p>
+<p><b>"Lifelong Learning - Honesty in small things is not a small thing."</b> </p>
 </div>  
+
+---
+
+## 🤝 Agradecimento | Appreciation  
+
+### 🇧🇷 Português  
+Muito obrigado por visitar meu perfil!  
+Se tiver alguma sugestão ou dúvida, fique à vontade para me enviar uma mensagem.  
+Trabalha em algum projeto open source? Me chame, estou sempre disponível para colaborar!  
+Posso não ter todas as respostas, mas tenho total interesse em ouvir, compartilhar ideias e aprender junto. 
+
+---
+
+### 🇺🇸 English  
+Thank you for visiting my profile!  
+If you have any suggestions or questions, feel free to reach out.  
+Working on an open-source project? Count me in — I’m always open to collaborate!  
+I may not know everything, but I’m eager to listen, share ideas, and learn together. 
+
 
 <br/>  
 
