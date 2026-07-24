@@ -72,6 +72,8 @@ I may not know everything, but I’m eager to listen, share ideas, and learn tog
 <a href="https://swagger.io/specification/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/openapis/openapis-icon.svg" alt="OpenAPI" height="50" /></a>
 <a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" height="50" /></a>
 <a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" height="50" /></a>
+<a href="https://www.oracle.com/java/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" height="50" /></a>
+<a href="https://spring.io/projects/spring-boot" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" height="50" /></a>
 </div>
 
 </td><td valign="top" width="33%">
