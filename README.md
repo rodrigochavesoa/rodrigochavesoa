@@ -1,4 +1,4 @@
-# E ai papa! | Hy there 🫱🫲  
+# E ai papa! | Hy there   
 <div align="center">
 <img src="https://rodrigochavesoa.github.io/Colab_Developer/images-favicon/mascote_colab_developer.png" align="center" height="150" width="" />
 <p>Mr. Colab Developer</p>
