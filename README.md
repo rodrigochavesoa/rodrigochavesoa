@@ -33,7 +33,7 @@ This practical approach is reflected in real projects delivered, such as **RC St
 With an academic background in Production Engineering and a Postgraduate degree in Physical Education, I highlight as soft skills analytical curiosity, adaptability, clear communication to translate ideas into code, and the ability to solve complex problems.  
 
 <div align="center">
-<img src="https://rodrigochavesoa.github.io/Colab_Developer/images-favicon/colab.png" align="center" height="100" width="" />
+<img src="https://rodrigochavesoa.github.io/icon-light.png" align="center" height="100" width="" /> 
 <p><b>"Aprendizado contínuo – A honestidade nas pequenas coisas não é uma coisa pequena."</b> </p>
 <p><b>"Lifelong Learning - Honesty in small things is not a small thing."</b> </p>
 </div>  
